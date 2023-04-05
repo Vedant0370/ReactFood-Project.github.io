@@ -1,0 +1,27 @@
+
+h1{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4{
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    color: red;
+}
+.navbar ul li a:hover{
+
+    /* color: aqua !important; */
+    color: greenyellow !important ;
+}
+.navbar ul li a{
+
+    font-size: 20px !important;
+    font-family: 'Roboto Mono', monospace;
+}
+.navbar-brand{
+
+    color: greenyellow !important ;
+}
